@@ -2,13 +2,13 @@
 title: 'Introducing Neon Navigators: Concept and Core Features'
 excerpt: "In this initial post, I introduce Neon Navigators, a VR project developed for my 3D User Interactions course at UC San Diego. This blog entry will outline the game's concept and elaborate on its unique technical features that contribute to immersive gameplay."
 
-coverImage: '/assets/blog/intro/cover-grid.jpeg'
+coverImage: '/assets/blog/intro/cover.jpeg'
 date: '2023-05-25'
 author:
   name: Haoyang Guo
   picture: '/assets/blog/authors/haoyang.jpeg'
 ogImage:
-  url: '/assets/blog/intro/cover-grid.jpeg'
+  url: '/assets/blog/intro/cover.jpeg'
 ---
 
 ## Name
