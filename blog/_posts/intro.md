@@ -17,7 +17,7 @@ Neon Navigators
 ## Game Concept
 The player finds themselves trapped within a rogue AI's digital realm. To escape, they must navigate through a series of levels, each presenting unique challenges including mazes, puzzles, combat, and racing.
   
-## Tentative Technical Feature:
+## Tentative Technical Features:
 - Selection: Virtual hand
 - Manipulation: Grabbing and placing objects, shooting projectiles
 - Wayfinding: Minimap and dynamic arrow
