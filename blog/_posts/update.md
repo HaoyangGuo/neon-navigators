@@ -1,5 +1,5 @@
 ---
-title: 'Update'
+title: 'Blog #3'
 excerpt: "A brief update on the project"
 
 coverImage: '/assets/blog/update/update-cover.png'
@@ -12,4 +12,4 @@ ogImage:
 ---
 
 ## Update
-Moving from conceptualization to concrete development in Neon Navigator, I've made significant progress. The first challenge was the grid-based floor design, crucial for achieving the Tron-like aesthetic. However, a moire pattern effect at the edges of the viewport made the grid lines appear as dots. After various attempts with a custom shader, I resolved this issue by replacing it with a regular .png texture. Alongside this, I've meticulously planned the puzzles for each level, setting the stage for the next step - implementation.
+Over the past week, I completed the second and third levels. In the second level, players use a weapon to defeat both flying and walking enemies. The weapon itself can be grabbed by the player with the virtual controller, and it **shoots projectiles** (manipulation) when the player presses the index trigger button. For the third level, the player needs to use the left controller to rotate the tunnel, allowing them to avoid obstacles. I also implemented the game's ending, where players can use the combination they obtained from beating the levels to unlock a safe that contains valuable data. To unlock this safe, the player needs to use the virtual controller and input the passcode through a **number pad** (symbolic input). Overall, I believe the project is nearing completion. My next step is to thoroughly test the project.
