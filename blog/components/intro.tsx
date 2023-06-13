@@ -7,7 +7,7 @@ const Intro = () => {
         Neon Navigators.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A pulsating, neon-drenched VR adventure for Oculus Quest 2, where you navigate complex digital realms to escape an AI's clutches.
+        A pulsating, neon-drenched VR adventure for Oculus Quest 2.
       </h4>
     </section>
   )
